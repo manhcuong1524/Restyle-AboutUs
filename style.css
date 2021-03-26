@@ -1,0 +1,118 @@
+*{
+    margin: 0 auto;
+    font-family: "ff-basic-gothic-pro",sans-serif;
+    color: #dddee0;
+    font-weight: 300;
+}
+span{
+    font-family: "azo-sans-web",sans-serif;
+    color: #f1f2f3;
+    text-transform: uppercase;
+}
+
+p.p1{
+   
+    background: url(https://cdn.originpc.com/img/company/about/create-your-advantage-bg.jpg) 50% 50% no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    
+}
+.mask {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+}
+.rgba-black-strong{
+    background-color: rgba(0,0,0,.7);
+    
+}
+.p11{
+    font-weight: 400;
+    font-size: 1.2rem;
+    text-align: center;
+    overflow: hidden;
+    cursor: default;
+    padding-right: 15px;
+    padding-left: 15px;
+    position: absolute;
+    padding-top: 18vw;
+    padding-bottom: 18vw;
+}
+
+p.p2{
+    background: url(https://cdn.originpc.com/img/company/about/about-bg.jpg) 50% 50% no-repeat;
+    background-size: cover;
+    padding: 8vw 0;
+    font-weight: 400;
+    font-size: 1.2rem;
+    padding-left: 200px;
+    padding-right: 800px;
+}
+p2.span{
+    font-family: "azo-sans-web",sans-serif;
+}
+/* p.p3{
+    font-weight: 400;
+    font-size: 1.2rem;
+    text-align: left;
+    padding-left: 800px;
+    padding-right: 200px;
+    padding-top: 80px;
+    padding-bottom: 100px;
+    color: #dddee0;
+    background-image: url('https://cdn.originpc.com/img/built-by-americans/main-bg.jpg?v=2');
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+} */
+.black {
+    background-color: #000 !important;
+    position: relative!important;
+    overflow: hidden!important;
+    width: 100%;
+    height: 118%;
+    padding-top: 40px;
+}
+
+.slanted-rect {
+    background: url('https://cdn.originpc.com/img/company/about/genesis-hero-left.png') 50% 50% no-repeat;
+    background-size: cover;
+    position: absolute;
+    width: 40%;
+    height: 33%;
+    padding-top: 400px;
+    margin-top: 56px;
+    margin-left: 100px;
+}
+
+
+
+#legacy {
+    background: url('https://cdn.originpc.com/img/company/about/legacy-bg.jpg') 50% 50% no-repeat;
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    padding: 12.6vw 0;
+    font-weight: 400;
+    font-size: 1.2rem;
+    padding-left: 200px;
+    padding-right: 800px;
+}
+.slanted-rect2 {
+    background: url('https://cdn.originpc.com/img/company/about/millennium-corsair.png') 50% 50% no-repeat;
+    background-size: cover;
+    position: absolute;
+    width: 40%;
+    height: 33%;
+    padding-top: 400px;
+    margin-top: 56px;
+    margin-left: 100px;
+}
